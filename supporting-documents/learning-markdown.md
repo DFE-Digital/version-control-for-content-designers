@@ -1,7 +1,6 @@
-# Learning Markdown 
+# Learning Markdown
 
-Markdown supports a very limited subset of is _incredibly simple_.
-
+Markdown supports a limited number of formatting options by design. It's easy to learn and if you're familiar with [Trello](https://help.trello.com/article/821-using-markdown-in-trello), [Reddit](https://www.reddit.com/wiki/markdown) or [Notion](https://www.notion.so/) you've probably already used it!
 
 ## Formatting
 
