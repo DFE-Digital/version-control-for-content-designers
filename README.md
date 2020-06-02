@@ -3,6 +3,7 @@
 This is a short course on version control for content designers.
 
 * [Part 1 - Getting started](getting-started.md)
+* [Part 2 - Collaboration](collaboration.md)
 
 ## Supporting documents
 
