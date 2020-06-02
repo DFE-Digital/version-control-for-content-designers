@@ -35,7 +35,7 @@ In the main panel of Github Desktop, providing we have it installed we should se
 
 ![VS Code](images/getting-started/vs-code-empty-project.png)
 
-Visual studio code is a text editor that has lots of nice built-in features for efficiency. On the left we can see our repository, `learning-git` with the list of files beneath it. Currently there's only the automatically-generated `.gitattributes` file which we can ignore.
+Visual studio code is a text editor with many features that make editing quick and efficient. On the left we can see our repository, `learning-git` with the list of files beneath it. Currently there's only the automatically-generated `.gitattributes` file which we can ignore.
 
 On the right, under the start menu, click 'New file' (or press `CTRL+N`) and add the following content:
 
